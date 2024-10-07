@@ -13,7 +13,7 @@ function App() {
         <a
           href="https://www.shecodes.io/graduates/123422-mellania-banda"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noreferrer"
         >
           Mellania Banda
         </a>
@@ -21,16 +21,12 @@ function App() {
         <a
           href="https://github.com/Melbanda28/weather-react"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noreferrer"
         >
           Git Hub
         </a>
         and website hosted on
-        <a
-          href="#"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="#" target="_blank" rel="noreferrer">
           {" "}
           Netlify
         </a>
