@@ -19,7 +19,7 @@ function App() {
         </a>
         , code hosted on
         <a
-          href="https://github.com/Melbanda28/weather-app"
+          href="https://github.com/Melbanda28/weather-react"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -27,7 +27,7 @@ function App() {
         </a>
         and website hosted on
         <a
-          href="https://weather-namhlanje.netlify.app/"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
         >
