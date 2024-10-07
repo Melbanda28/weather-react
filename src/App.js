@@ -27,7 +27,7 @@ function App() {
         </a>
         and website hosted on
         <a
-          href=""
+          href="#"
           target="_blank"
           rel="noopener noreferrer"
         >
